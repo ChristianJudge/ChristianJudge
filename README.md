@@ -7,20 +7,20 @@ My background has given me a strong foundation in analytical thinking, attention
 I’m excited to keep learning, refining my skills, and contributing to data-driven decision-making. If you’re looking for a motivated, analytical thinker who’s ready to make an impact, let’s connect!
 - CV - [PDF]()
 
-## 🔍 Case Studies  
-📌 [Case Study 1: Cyclistic customer analysis](https://github.com/ChristianJudge/Cyclistic_Analysis/README.md)  
-📌 [Case Study 2: Name](https://github.com/ChristianJudge/case-study-2)  
-📌 [Case Study 3: Name](https://github.com/ChristianJudge/case-study-3)  
+## 🔍 Projects
+📌 [Cyclistic customer analysis - (Data Analysis Project)](https://github.com/ChristianJudge/Cyclistic_Analysis/README.md)  
+📌 [Spreadsheet Admin Project - (Invoices)](https://github.com/ChristianJudge/spreadsheet-practice)  
+
 
 ## 📊 Skills & Tools  
-- **Programming:** Python, R, SQL  
+- **Programming:** SQL, Python, R  
 - **Libraries:** pandas, matplotlib, seaborn, ggplot2  
-- **Databases:** PostgreSQL, BigQuery  
+- **Databases:** BigQuery, Excel, Google sheets, .CSV files
 - **Machine Learning:** XGBoost, scikit-learn  
 
 ## 📫 Connect With Me  
-[LinkedIn](your-linkedin) | Email - chris.judge332@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/christian-judge-3282432b0/) | Email - chris.judge332@gmail.com 
 
 ---
   
-🚀 **Check out my repositories for full case studies!**
+🚀 **Check out my repositories for full case studies and my Projects!**
