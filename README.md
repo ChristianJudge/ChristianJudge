@@ -5,7 +5,7 @@ I’m an aspiring data analyst with a passion for uncovering insights that drive
 My background has given me a strong foundation in analytical thinking, attention to detail, and a drive for continuous learning. I enjoy diving into datasets, spotting trends, and figuring out how businesses can leverage data to improve their strategies. Through this project, I’ve explored user behavior, demographics, and marketing opportunities—exactly the kind of work I’m eager to do in a professional setting.
 
 I’m excited to keep learning, refining my skills, and contributing to data-driven decision-making. If you’re looking for a motivated, analytical thinker who’s ready to make an impact, let’s connect!
-- CV - [PDF](https://github.com/ChristianJudge/ChristianJudge/blob/main/CJ_CV_GH.pdf)
+- CV - [PDF](https://github.com/ChristianJudge/ChristianJudge/blob/main/CJ_CV.pdf)
 
 ## 🔍 Projects
 📌 [Cyclistic customer analysis - (Data Analysis Project)](https://github.com/ChristianJudge/Cyclistic_Analysis)  
