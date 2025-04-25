@@ -8,6 +8,7 @@ I’m excited to keep learning, refining my skills, and contributing to data-dri
 - CV - [PDF](https://github.com/ChristianJudge/ChristianJudge/blob/main/CJ_CV.pdf)
 
 ## 🔍 Projects
+📌 [logistics-excel-dashboard - (Excel Dashboard)](https://github.com/ChristianJudge/logistics-excel-dashboard)  
 📌 [Cyclistic customer analysis - (Data Analysis Project)](https://github.com/ChristianJudge/Cyclistic_Analysis)  
 📌 [Spreadsheet Admin Project - (Invoices)](https://github.com/ChristianJudge/spreadsheet-practice)  
 
